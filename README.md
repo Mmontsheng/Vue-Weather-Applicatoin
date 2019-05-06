@@ -10,5 +10,5 @@ Application uses HTML5 geolocator API
 
 Steps used in obtaining weather:
 
-	Step 1: Obtain user's location using geolocator API and store the coordinates in an array. </br>
-	Step 2: Make a get request to the weather API pass the arrayn as a query parameter. </br>
+	Step 1: Obtain user's location using geolocator API and store the coordinates in an array. 
+	Step 2: Make a get request to the weather API pass the arrayn as a query parameter.
